@@ -1,0 +1,737 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.0.
+# VocÃª pode editÃ¡-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Ãšltimo padrÃ£o de busca :
+~MSle0~/get_t
+
+# Ãšltima string de substituiÃ§Ã£o:
+$
+
+# HistÃ³rico de Linha de comando (mais recente primeiro):
+:w
+|2,0,1504645422,,"w"
+:e config.py
+|2,0,1504635252,,"e config.py"
+:11
+|2,0,1504634235,,"11"
+:set nu
+|2,0,1504634233,,"set nu"
+:w bitlyhelper.py
+|2,0,1504634207,,"w bitlyhelper.py"
+:e mockdbhelper.py
+|2,0,1504632207,,"e mockdbhelper.py"
+:q
+|2,0,1504632058,,"q"
+:e passwordhelper.py
+|2,0,1504632050,,"e passwordhelper.py"
+:e 
+|2,0,1504632021,,"e "
+:w config.py
+|2,0,1504632001,,"w config.py"
+:e templates/account.html
+|2,0,1504621826,,"e templates/account.html"
+:e templates/dashboard.html
+|2,0,1504621456,,"e templates/dashboard.html"
+:e templates/base.html
+|2,0,1504619853,,"e templates/base.html"
+:'<,'>
+|2,0,1504551517,,"'<,'>"
+:w passwordhelper.py
+|2,0,1504549705,,"w passwordhelper.py"
+:!ls
+|2,0,1504545579,,"!ls"
+:e templates/home.html
+|2,0,1504545573,,"e templates/home.html"
+:e waitercaller.py
+|2,0,1504545567,,"e waitercaller.py"
+:cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/
+|2,0,1504545563,,"cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/"
+:x
+|2,0,1504295729,,"x"
+:e .gitignore
+|2,0,1504295708,,"e .gitignore"
+:e user.py
+|2,0,1504295038,,"e user.py"
+:cd ..
+|2,0,1504295024,,"cd .."
+:e ../../headlines/templates/home.html
+|2,0,1504289670,,"e ../../headlines/templates/home.html"
+:w jumbotron.css
+|2,0,1504289361,,"w jumbotron.css"
+:cd static/
+|2,0,1504289343,,"cd static/"
+:q!
+|2,0,1504275465,,"q!"
+:cd ../waitercaller/
+|2,0,1504275113,,"cd ../waitercaller/"
+:e static/css/style.css
+|2,0,1504058351,,"e static/css/style.css"
+:e dbhelper.py
+|2,0,1504035814,,"e dbhelper.py"
+:e crimemap.py
+|2,0,1504035808,,"e crimemap.py"
+:cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/
+|2,0,1504035793,,"cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/"
+:cd crimemap/
+|2,0,1503972653,,"cd crimemap/"
+:cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/
+|2,0,1503972648,,"cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/"
+:e db_setup.py
+|2,0,1503692563,,"e db_setup.py"
+:w!
+|2,0,1503689636,,"w!"
+:e /etc/httpd/conf.d/hello.conf
+|2,0,1503689552,,"e /etc/httpd/conf.d/hello.conf"
+:tabnext 
+|2,0,1503687186,,"tabnext "
+:tabedit /home/rbs/rafaelb.barbosa@gmail.com/Workspace/Freelancers/headlines/templates/home.html
+|2,0,1503687180,,"tabedit /home/rbs/rafaelb.barbosa@gmail.com/Workspace/Freelancers/headlines/templates/home.html"
+:e headlines.py
+|2,0,1503687166,,"e headlines.py"
+:2
+|2,0,1503687120,,"2"
+:1
+|2,0,1503687119,,"1"
+:!sudo python headlines.py
+|2,0,1503515804,,"!sudo python headlines.py"
+:!python headlines.py
+|2,0,1503514929,,"!python headlines.py"
+:cd headlines/
+|2,0,1503514645,,"cd headlines/"
+:e hello.wsgi
+|2,0,1503433077,,"e hello.wsgi"
+:w hello.py
+|2,0,1503431304,,"w hello.py"
+:e hello.py
+|2,0,1503430705,,"e hello.py"
+:cd hello/
+|2,0,1503430507,,"cd hello/"
+:cd firstapp/
+|2,0,1503430156,,"cd firstapp/"
+:!mkdir firstapp
+|2,0,1503430149,,"!mkdir firstapp"
+:mkdir firstapp
+|2,0,1503430139,,"mkdir firstapp"
+:cd ../
+|2,0,1503430119,,"cd ../"
+:e flaskr//flaskr/flaskr.py
+|2,0,1503425044,,"e flaskr//flaskr/flaskr.py"
+:e flaskr/flaskr/schema.sql
+|2,0,1503423667,,"e flaskr/flaskr/schema.sql"
+:cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/bilheteria/
+|2,0,1503422034,,"cd rafaelb.barbosa@gmail.com/Workspace/Freelancers/bilheteria/"
+:cd
+|2,0,1503422023,,"cd"
+:cd workspace/
+|2,0,1503421972,,"cd workspace/"
+
+# HistÃ³rico de ExpressÃµes de busca (mais recente primeiro):
+? \s\+$
+|2,1,1504645422,,"\\s\\+$"
+?/get_t
+|2,1,1504644920,47,"get_t"
+?/new_request
+|2,1,1504644631,47,"new_request"
+?/dashbo
+|2,1,1504641118,47,"dashbo"
+?/add_ta
+|2,1,1504635411,47,"add_ta"
+?/create
+|2,1,1504634438,47,"create"
+?/cre
+|2,1,1504634435,47,"cre"
+?/delet
+|2,1,1504633173,47,"delet"
+?/pdb
+|2,1,1504633167,47,"pdb"
+?/table
+|2,1,1504632741,47,"table"
+?/account
+|2,1,1504632657,47,"account"
+?/re
+|2,1,1504622045,47,"re"
+?/
+|2,1,1504582105,47,""
+?/    import pdb; pdb.set_trace()p
+|2,1,1504581964,47,"    import pdb; pdb.set_trace()p"
+?/login
+|2,1,1504551350,47,"login"
+?/login_user
+|2,1,1504298312,47,"login_user"
+?/row
+|2,1,1504291590,47,"row"
+?/jumbotron.css
+|2,1,1504289375,47,"jumbotron.css"
+?/description
+|2,1,1504184821,47,"description"
+?/Submit new
+|2,1,1504140074,47,"Submit new"
+?/home
+|2,1,1504139809,47,"home"
+?/break
+|2,1,1504123803,47,"break"
+?//
+|2,1,1504067068,47,"/"
+?/click
+|2,1,1504061383,47,"click"
+? clear_all
+|2,1,1504059202,,"clear_all"
+?/map-can
+|2,1,1504058755,47,"map-can"
+?/map-ca
+|2,1,1504058752,47,"map-ca"
+?//var/www
+|2,1,1503949187,47,"/var/www"
+?/var/www/
+|2,1,1503949174,47,"var/www/"
+?/debug
+|2,1,1503949160,47,"debug"
+?/DocumentRoot
+|2,1,1503689138,47,"DocumentRoot"
+?/500
+|2,1,1503514993,47,"500"
+?/root
+|2,1,1503513393,47,"root"
+?/Documentro
+|2,1,1503513391,47,"Documentro"
+?/provider
+|2,1,1502906091,47,"provider"
+?/testQue
+|2,1,1502298056,47,"testQue"
+?/datasour
+|2,1,1501799413,47,"datasour"
+
+# HistÃ³rico de ExpressÃ£o (mais recente primeiro):
+
+# HistÃ³rico de Linhas de entrada (mais recente primeiro):
+
+# HistÃ³rico de Debug Line (mais recente primeiro):
+
+# Registradores:
+"0	CHAR	0
+	 
+|3,0,0,0,1,0,1504635122," "
+"1	LINE	0
+	@app.route()
+|3,0,1,1,1,0,1504642275,"@app.route()"
+"2	LINE	0
+	            <h2>Requests</h2>
+|3,0,2,1,1,0,1504642140,"            <h2>Requests</h2>"
+"3	LINE	0
+	            <p>All your customers are currently satisfied - no
+	            requests</p>
+|3,0,3,1,2,0,1504642131,"            <p>All your customers are currently satisfied - no","            requests</p>"
+"4	LINE	0
+	    import pdb; pdb.set_trace()
+|3,0,4,1,1,0,1504633169,"    import pdb; pdb.set_trace()"
+"5	LINE	0
+	    import pdb; pdb.set_trace()
+|3,0,5,1,1,0,1504633165,"    import pdb; pdb.set_trace()"
+"6	LINE	0
+	    import pdb; pdb.set_trace()
+|3,0,6,1,1,0,1504633159,"    import pdb; pdb.set_trace()"
+"7	LINE	0
+	import config
+|3,0,7,1,1,0,1504631971,"import config"
+"8	CHAR	0
+	"You are logged in"
+	
+|3,0,8,0,2,0,1504622042,"\"You are logged in\"",""
+"9	LINE	0
+	    def get_user(self, email):
+	        if email in MOCK_USERS:
+	            return MOCK_USERS[email]
+	        return None
+|3,0,9,1,4,0,1504581770,"    def get_user(self, email):","        if email in MOCK_USERS:","            return MOCK_USERS[email]","        return None"
+"j	CHAR	0
+	18272
+<jjj/500lli0:w:p€kb€ü€kb€kbpykkkkkkkkkkkkkkkkkkkIk€ý,€ý.ggiimport feedparserjjjkkko€ý,€ý.jjkjjkkkkkkkkkkjjjoBBC_FEED = ""ihttp://feeds.bbci.co.uk/news/rr€kbss.xmlj:w€ý,€ý.kkkkj€ý,€ý.jjjjjjjjjjjjjjkkkkofeed = feedparser.parser()iBBC_FEEDofirst €kb_article = feed[]€kl''ientriesA[]i0jkoreturn """<html>		<body>	<h1) BBC€ü Headlines </h1>hhhhhhhhhhhhhhhhhhhhr>jk€ý,€ý.jo<b>{}i0A</b> <br/>o<i>{1}</i> <br/>o<p>{2}</p> <br/>o€kb</body>ko€kb</html>""".format(first_article.get()i""ititleA, first_at€kbrticle.get("g€kbpublished"), first_article.get()i""isummary:wkkjjjdd:w€ýc€ýb:!P€kb:st nu€kb€kb€kb€kbet nujjjkk€ýc€ýbkA):w:!:Q€ü€kb!-€ü€kbkkkkkkkkkkkkkkkkkkkkkkkkk€ýc€ýb€ýc€ýbjjjjjjjjjj€ýc€ýb€kl€kl€kl€kl€kl€kl€kl€kl€kl€klx:w€ýc€ýb:w€ýc€ýb€ýc€ýb€ýc€ýbkkkkkkkjjjjk:€ýc€ýb€ýc€ýb€ýc€ýbkoRSS_FEEDS = {}€kl''ibbclli: ''ihttp://feeds.bbci.co.uk/news/rss.xmllli	 ''€kb'icnnlli: ''ihttp://rss.cnn.com/rss/edition.rssl€kblli,'': ''hhhhifox€ýc€ýbjkhhhxxxxxxxxxiuu"+puh"+plllllllhhlhAl€kb €kD€kD€kD€kD€kD€kD€kD€kDV€kr€kl€kr€kr€klv$xv$xhhhhhhhhhhhhhhhhlljhi		'': hhiiolllljkohlji#:wkkjddkkkk:wkA,:wj€ý,€ý.jjjjjjjjjkkko@app.route()i""i/bbcodef bbc():return get_news()i''ibbc€ý,€ý.jjjjjjjjjjkkkkkkkkkkkjkkjkjkokidef€kb€kb€kb@app.route()i""i/cnnodef cnn():return get_news()i''c€kbicnnjjhipublicationjlllllcwuuvllxiRSSlllllli[]ipublicationjjjjjjj€ýc€ýb:w€ýc€ýb€ýc€ýbkkkkkkkkkkkkkkkkkkjjjjjjjjjjljkllllllllllllllllllllllllllllllelis€kbS:w:w€ýc€ýb€ýc€ýbjjjjhbbbbcwlx:wjjjjjjjjjjjjjjjjjjjkkkkkkkkjjjjjjjjjjjjjjjjjjjjjj€ýc€ýb:w€ýc€ýbjkjkkkkkkkkkkkkkkk€ýc€ýbkkkkkkkjjjjjjjjo@app.route()i""i/o€ýc€ýb@app.route()i""i€ýc€ýb/<>ipublication€ýc€ýb€ýc€ýbj€ýc€ýbi=""ibbc:wkkkkkkkkkkkVdd:w€ýc€ýb€ýc€ýbjkjjjjjjjkI#:wjjjjjjjjjjjjjjjjjjjjjjjjjjjj:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbkjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjV:w€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb,tn€ü€kP€ü€kP€ü€kP,tc,tc,tc€ü€kNi<html>	<head>	<title>Headlines</titles>€ý,€ý.€kb</head><body></body>ko	<h1>Headlines</hq1€kb€kbw€kb1>ko<b>b€kb<b€kb/b></€kbbr />hhhhhhhhhititleo<i>published</i€kb/€kbi)€kb><br />p€kb<p>,€kbsuma€kbmary</p>jo€kb</htmlA>:w:wkkkkkkkkkkkkkkkkVJjuVjjjjjjjjjjjjjjj"+y,tn:e tem	h	"+pkdd:w€ü€kP,tc€ýc€ýb€ü€kP€ku€kuggjjofo€kbrom flask import render-€kb_template:w€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjkjddukjVjjjjjjjjjjjkkkxko€ýc€ýbreturn €ýc€ýb€ýc€ýbrender-€ü€kb_template()i""ihome.html:w€ýc€ýb:w€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ü€kN€ü€kP€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€kd€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ü€kN€ku€ku€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€ýc€ýb€ýc€ýb€ku€ku€kueeeeex:w€ýc€ýb€ü€kPjjjjjjjjjjjkkklli€kb€kb€kb€kb,ui,"+pj>>>>>>,j>>>>>>>:wjjjjjjjjjjjjj€ü€kN€ü€kP:w€ýc€ýb€ýc€ýb€ü€kNjjjjkhhhhhhhhhhhhhhji{{eli}}€ýc€ýbjli}}hhhhhhhbi{{hhlji{{eli}}:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€kueeeeeelhlvjjeeeeeeeehxi€kb €ýc€ýbarticle=first_article:w€ýc€ýb€ü€kNkkkkkljjlllllllllllliarticle.khhhhhhhiarticle.jhhbjiarticle.:w€ýc€ýb€ýc€ýb€ü€kP€ku€ýc€ýb€ýc€ýbhjllll€ýc€ýbjjkkkddlllllllllllllllllllllllllllllllllllllllulllllllllllllllhhhhhhhhhvllllllllllllllllllllllllyveeeeeehyjlllllllllllllllllllllllllllllllhvllllllllllllllllllllp€ýSyankstack_substitute_older_pastekdd€ýc€ýbeeeeeeeelislxlx:e€kbw€ýc€ýb:w€ýc€ýb€ü€kN€ku€ku€ku€ýc€ýb€ku€kdo<€kb{}i%%i€ýc€ýbfor article €ýc€ýbin articles hhhhhhhhhhhhhhhhhhhhhhhi eeee€ýc€ýbjjjjko<€kb{}i%%i endfor :w€ýc€ýb:w€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kuV€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb€ü€kN€ku€ku€kuhhhhhhhlLkkkkkkkjjeellvllllllllllllllllp€ýSyankstack_substitute_older_pastepuuvleeellp€ýSyankstack_substitute_older_pastei€ýc€ýbl"+phhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhx:w:w€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€kugg€kd€kd€kdofrom flask import request:w€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kdV€kd€kd€kd€kd€kd€kd€kd€kuxddljdd:w€ýc€ýb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€krveeeebx:w€ýc€ýboquery = €ýc€ýbrequest.€ýc€ýb€ýc€ýbargs.€ýc€ýbget()i""€ýc€ýbipublication:w€ýc€ýb:w€ýc€ýb€ýc€ýboif €ýc€ýbnot query €ýc€ýbor query.lower€ýc€ýb(0 n€kb€kb€kb) not€ýc€ýb in RSS_FEEDS€ýc€ýbA:€ýc€ýbpublication€ýc€ýb -€kb= ""ibbc:wjjjjjjjj:wjjjjj€ýc€ýbkkkkko€kbelse€ýc€ýb:€ýc€ýb€ýc€ýbpublication€ýc€ýb = query€ýc€ýb.lower€ýc€ýb()€ýc€ýbjjjj€ýc€ýb€ýc€ýb€ü€kNkkkko"+pjkVjjj>jVj>:w€ýc€ýb€kl€kuV€kd€kd€kdx€kd€kdpu€kupV€kd€kd€kd>	:w€ýc€ýb€ü€kP€ýc€ýbkkkko:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjj:w€ýc€ýb€ýc€ýb€ýc€ýbkkkkkkkkkkkkljjllkkljllklkkopublication = "":w€ýc€ýb€ýc€ýb€ýc€ýbk€ýc€ýblcwformkki €ýc€ýbmethoss€kb€kbds=€ýc€ýb[]i€ýc€ýb''iGETlli€ýc€ýb, ''iPOST€ýc€ýb:w€ýc€ýb€ýc€ýbhbbbbbbbfleli,:w€ýc€ýb€ü€kN€ku€kd€kr€kr€kr€kr€kri €ýc€ýbaction=""i/lli €ýc€ýbmethod=""i€ýc€ýbPOST:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kuodef get_weather(query):api_url = http://apil€kb.openseather€kb€kb€kb€kb€kb€kb€kbweathermap.org/data/2.5/weather?q={}&€kb&units=metric&appid=€ýc€ýblh"+p:w€ýc€ýbowe€kb€kbqe€kbuery = urllib.quote()iqueryourl = api_url.format()iqueryodata = urllib2.urlopen(url).read()parsed = json.loads(data)weather €kb = None€ý,€ý.koif parsed.get()i""iweatherA;::A:weather = {}€kl""idescriptionlli:parser€kbd[]i""iweatherei[]i0ei[]i""idescriptionAi,""itemperaturalli:parsed[]i""imainlei[]i""itempei,""icityei:parsed[]i""inamelllioreturn weather:wkkkkkkkkkkk€ýc€ýbk:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbhhhhhhhi"$A":wjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkjkxuuukggjjjjokkddkkVlllllllllllllllllllhhjVxkkpjjo€ýc€ýbimport €ýc€ýbjsonimport €ýc€ýburllib2import urllib:wjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:wkkkkkklllllllllllllli"A":w€ýc€ýbkkjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkjkk0oweather = get_e€kbweather()i""iLO€kbondon, UKjeeeeeeei,weather=eath€kb€kb€kb€kbweather:w:w€ýc€ýb€ü€kNjjjjko<h2><€kbCurrent weather</h2)€kb>o<p>CI€kbity: <b>{{}€kb€kb}i{}iweather.cityllllhhhlA</b></p>o<p>{}i{}iweather.descriptionlllhA | {}i{}iweather.temperaturalllhA&#8451;</p>o<h2>Headlines</h2):xA>:wjjjjjjjjjjjjj€ýc€ýb:w€ü€kP:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kujjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkjjjjjjjjjjjkjkkjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ýb€ü€kN€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kdo<form><€kb€kb</form>ko€ýc€ýb<input €ýc€ýbtype=€ýc€ýb""i€ýc€ýbtextA €ýc€ýbname="city" €ýc€ýbplacehouder€ýc€ýb€kb€kb€kb€kblder=""A""i€ýc€ýbweather€ýc€ýb search:wA/>:w€ýc€ýbokAhxkjji			<input tupe€kb€kb€kbu€kbype=""i€ýc€ýbsubmitA €ýc€ýbvalue=""i€ýc€ýbSubmitA>:w€ýc€ýb€ü€kP€kd€ku€ku€ku€kuo€ýc€ýbDEFAULTS€ýc€ýb = {}i€ýc€ýb''i€ýc€ýbpublication€ýc€ýbei:€ýc€ýb''ibbcei,	€kb€ýc€ýb''icityei,€ýc€ýb''iLo€ýc€ýbdon,€ýc€ýb€kb€kb€kb€kbndon,UK€ýc€ýb:wjjjk:wkkkjllllllllllllllr::wkjk%$A€kD€kD€kD€kD€kD€kD€kD€kD€kD :w€ýc€ýbjjjokkk€ýc€ýb€ýc€ýbllkk€ýc€ýbidef home():€ýc€ýb€ýc€ýb:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb"+pVjjjjjjjjjjj>jjjjjjkkhhhkkkkkjjjjjjjjjjjjjddkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkjjjjj€ýc€ýbkkk>>jjk€ýc€ýbjjjj>>jjkokkkkkkkkkojjjkojjjkkojjjjjjjjjjjkkkkkkkkkkkkkkkjjddjjjjjjj:wjjjjjjjjjjjjjkkkkkkkkci(l%iquery:w€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€ku€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kudddddd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kriDEFAULTS[A]:wjklkleeceeci"publication:wjjj €ýc€ýb€ýc€ýb€ýc€ýb€kd€kd€kd€kd€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€klv$xi €ýc€ýbfeed[]i€ýc€ýb''ientries:wokkk€ýc€ýbkjjdd:w€ýc€ýbjjjjjjjjjkkkkkkllllllI#oquery = urllib.quote()iqueryddjllllllvllllllxiWEATHER_URLjjjjjjjjjjj€ýc€ýb€ýc€ýbkkkkkkjkhiA€kDlvlllllllebhx:w:wjj€ýc€ýb€ku€ku€ku€ku€ku€ýc€ýb€ýc€ýb€ku€ku€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€ýc€ýb€kd€kd€kd€kd€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€ku€ku€klx€kd€kd€kr€kr€kr€kr€kr€kr€ku€ku€kl€kl€kl€kl€kl€kl€kr€klVv€kr€kr€kr€kr€kr€krVxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkop<<vvwhbveIvExiWEATHER_URLjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk:wjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkk:wkkkkkkkkkkkkkkkkkkkkkkkkkk€ü€kN€ü€kP€ü€kN€ü€kP€kd€kd€kd€kd€kd€kd€ýc€ýb€ü€kN€ü€kP€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd:w€ýc€ýb€ü€kN€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kuV€kd€kd€kdx€kd€kd€kd€kd€kd€kd€kd€kd€kup:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kN€kd€kd€kd€kd€kd€kd€kd€kd€kdlllkkkko€ýc€ýb''i€ýc€ýbcountry€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€kuA€kb€ýc€ýbA: €ýc€ýbparsed€ýc€ýb[]i€ýc€ýb''isysA€ýc€ýb[]i''i€ýc€ýbcountry:whhhhhhhhhhhhhhhhhhhhhhx:wkA,:w€ýc€ýb€ü€kNjjjjjjjkkkkkkkkkkV"+p€ýSyankstack_substitute_older_paste>>>>:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€ü€kN€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ü€kN€ü€kN€ýc€ýb€kd€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kl€ku€kr€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ü€kPkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjpuj€ýc€ýb"+peeli€kblhhki ljli $A€kD:w€ýc€ýblllllllllvlllllllllllllllllp€ýSyankstack_substitute_older_pasteuvhveeeeeeeeh"+p€ýSyankstack_substitute_older_paste:wo:w€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjko"+pijVjjjj>	€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€ku$i, €ýc€ýbcurrency€ýc€ýb_from€ýc€ýb'bi'elli,€kb:''i€ýc€ýbGBP:w€kr€kri, €ýc€ýb''i€ýc€ýbcurrent€ýc€ýb€kbcy_€ýc€ýbtolli:''i€ýc€ýbUSD:wjkkjjkkkjjkkjjjkjjjjkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkojjjjjjjjjjjjjjokkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjkkkkkkkkk€ýc€ýbj"+pVjjjjjjj>jjjjjjjjkokkkkkkkkko:wjjjj>>j€ýc€ýbj:wj>>	:wkj€ýc€ýb€ýc€ýb:wjjjj:wkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjkk€ýc€ýbjkkkkkeeeli, "p"+phhl$A€kD:wkj>>>>>>kA€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD lllllllllllllllllli:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kNjjjjjjjjjjjjk€ýc€ýb€ýc€ýbkkkkk"+pu"+puo"+pJxxxikVj>>>,jj>>kkkkkjjjjijjikkkkkkki:w€ýc€ýb€ýc€ýbjjjjjli'€kb1 :w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbjkko"+pVjjjjjjjjjjjjjj>VJuVjjjjjjjjjjjjjj>jJuVjjjjjjjjjjjj>jVjjjjkkkkkVjjjjjjjjjjjj==:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€ku€ku€kd€kd€ku€kl€kl€kl€kl€kl€kl€klirate, lllllllllllllllveeeeexiger_€kb€kbt_ratellicurrent€kbcy_fromli, llhxllllllllllllhx:wjkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxi€kbies:wjjjjkkkkVjjjjjjwVkkkkkkkkkkjjjjjxkuuuuuuuuuuuuu€ýc€ýbuu€ýc€ýb€ýc€ýblllllllllllllvlllxie€kbiesllllveeeee€ýc€ýbkkkkjjj€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbuuuuuuukkkkkuukkkkkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhvlxifrom:wjkhhhuuu:wjj€ýc€ýbhhhj€ýc€ýbjj€ýc€ýbj$i, €ýc€ýbcurrencies€ýc€ýb=sorted€ýc€ýb()i€ýc€ýbcurrencies:w€ýc€ýbjjjjjkkkkkkkkkkkjjjbbbbbbi€kb, currencies:li :w€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkk€ýc€ýb€ýc€ýbhhhhhhhhhji(A)i,€ýc€ýb€ýc€ýb par€ýc€ýbsed€ýc€ýb.keys():w:wjjjjj€ýc€ýb:w€ýc€ýb€ü€kN€ýc€ýbhhhhjkkVjjjjjjjjjjjjjjxko€ýc€ýb€ýc€ýb"+pVjjjjjjjjjjjjjj>Vj]][kkkkkkkkkkkkkk>Vjjjjjjjjjjjjjj=:w€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkk€ü€kPkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk€ýc€ýb€ü€kN€ýc€ýbjj€ýc€ýbllllllllllllllli :w€ýc€ýb€ýc€ýbjjjjj€ýc€ýb€ýc€ýb€ýc€ýbjjk€ýc€ýbllllllllllllllllllllli€ýc€ýblili"+pj>>>>>>>>>>uVx€ýc€ýbjkllllllllllllllhhikkVj>:w€ýc€ýb€ýc€ýbkkkkkkkkjlllllllllllllllllllllllli"+phhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhjikkVj>lllllllllllllllllllllllllllllllllllllhxxifromjjjjjjjjhhhxxxxito:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb:w€ü€kP€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjkkkjkkkhhhhhhhhhhhhhhhhhhhhijjj$i>>kkkkVjjj>Vjjj>:wjjjjjjjjjjkhhhhi>>lllllllllllllllllllllilllllllllllllllllllllillllllllllllllllllllllllilllllllllllllllllllli:wkkkkkkkkkkkkkkJJuuVjjj<:wjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjÃ§kkkkkjjjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbggjjkkoimport datetime€ýc€ýbjjjjkkkko€ýc€ýbfo€kbrom €ýc€ýb€kb€kb€kb€kb€kb€kbjjjjkk€ýc€ýbjjofrom flask p€kbimport €ýc€ýbmake_response:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjj/homejjjjjjjjjjjjjjjjjjjjjjjjkLLLLlhvllllllxiresponse = make_response($jA):w€ýc€ýb€ýc€ýb€ýc€ýb€ý,€ý.jjjkkjjoujoex€kb€kb€kb€kb	expires = datetime.datetime.now() +€ü datetime.timedelta()idays=365oresponse.set_cookie()i""ipublicationlli, publication, expires=expiresoresponse.set(€kb_cookie()i""i€kbicityei, city, expires=expires:woresponse.set-€kb_cookie()i""icurrency_fromei, currency_from, expires=expiresoresponse.set_cookie()i""icurrency_toe,i, currency_to, expires=expires:woreturn response:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kuo	if not publication:publication = request.cookies.get()i""ipublication:wjVjj>	jjj€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku"+pijVjjj>j>>jj>>:wkkkkkkkkkkkkjjjjjjjjjjjjjjj€ýc€ýbkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjhhhh€ýc€ýb€ýc€ýbjkvhjjj$%$xvlllllllxkk:wjklllllllllllllllhvlllllllllllllllxiget_value_with_fallback:wllr"elr":wjjkddjj€ý,€ý.kkkkkkVjjxkocity = get_value_n€ü€kb€ü €kb€ü €kb()i""icityjjj€ý,€ý.kkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjkkkkkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhveeeeexgetllligetj€kb€kb€kbjVjxlllllllllllllebveeeeexiget€kb€kb:wjkjVjx:w,tw,tw,twjjjjj€ýc€ýb€ýc€ýb€ü€kN€kugg€kd€kd€kd€kd€kd€kd€ku€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kl€kuo<de€kbiv id=""iheaderA>jjjjkkko</div>k>>:wo,tw,twi			<p>€ýc€ýb€ýc€ýb</p>ddko<p?€ü€kb><?€ü€kb/p>bci>uhhliHeadlines,€kb. Currency. Weather.o<b€kbhr />:wkkkkkoukouo<styp€kble></sytl€kby€kb€kb€kbtyle>bbliki		html {}ci}jkklhAf€kb	font-family:€ü "";ci"hiHelveticao€kbbackground: wht€kbite;:wjoo€kbbody {}iklhA	a€kbbackground: lightgrey;€kbmax-width: 900px;€kbmargin: 0 auto;jjko#header {}ikkouuikobackground: lightstellblue;hhhhhhre:w,twjkkkkkkkkki,tw,,twn:w:,tc,tn:q:q,tc:q!:1€kb€kb2:q:q€ýc€ýb
+|3,0,19,0,1,0,1503687160,>18384
+|<"jjj/500lli0:w:p€kb€ü€kb€kbpykkkkkkkkkkkkkkkkkkkIk€ý,€ý.ggiimport feedparserjjjkkko€ý,€ý.jjkjjkkkkkkkkkkjjjoBBC_FEED = \"\"ihttp://feeds.bbci.co.uk/news/rr€kbss.xmlj:w€ý,€ý.kkkkj€ý,€ý.jjjjjjjjjjjjjjkkkkofeed = feedparser.parser()iBBC_FEEDofirst €kb_article = feed[]€kl''ientriesA[]i0jkoreturn \"\"\"<html>		<body>	<h1) BBC€ü Headlines </h1>hhhhhhhhhhhhhhhhhhhhr>jk€ý,€ý.jo<b>{}i0A</b> <br/>o<i>{1}</i> <br/>o<p>{2}</p> <br/>o€kb</body>ko€kb</html>\"\"\"
+|<.format(first_article.get()i\"\"ititleA, first_at€kbrticle.get(\"g€kbpublished\"), first_article.get()i\"\"isummary:wkkjjjdd:w€ýc€ýb:!P€kb:st nu€kb€kb€kb€kbet nujjjkk€ýc€ýbkA):w:!:Q€ü€kb!-€ü€kbkkkkkkkkkkkkkkkkkkkkkkkkk€ýc€ýb€ýc€ýbjjjjjjjjjj€ýc€ýb€kl€kl€kl€kl€kl€kl€kl€kl€kl€klx:w€ýc€ýb:w€ýc€ýb€ýc€ýb€ýc€ýbkkkkkkkjjjjk:€ýc€ýb€ýc€ýb€ýc€ýbkoRSS_FEEDS = {}€kl''ibbclli: ''ihttp://feeds.bbci.co.uk/news/rss.xmllli	 ''€kb'icnnlli: ''ihttp://rss.cnn.com/rss/editio
+|<n.rssl€kblli,'': ''hhhhifox€ýc€ýbjkhhhxxxxxxxxxiuu\"+puh\"+plllllllhhlhAl€kb €kD€kD€kD€kD€kD€kD€kD€kDV€kr€kl€kr€kr€klv$xv$xhhhhhhhhhhhhhhhhlljhi		'': hhiiolllljkohlji#:wkkjddkkkk:wkA,:wj€ý,€ý.jjjjjjjjjkkko@app.route()i\"\"i/bbcodef bbc():return get_news()i''ibbc€ý,€ý.jjjjjjjjjjkkkkkkkkkkkjkkjkjkokidef€kb€kb€kb@app.route()i\"\"i/cnnodef cnn():return get_news()i''c€kbicnnjjhipublicationjlllllcwuuvllxiRSSlllllli[]ipublicationjjjjjjj€ýc€ýb:w€ýc
+|<€ýb€ýc€ýbkkkkkkkkkkkkkkkkkkjjjjjjjjjjljkllllllllllllllllllllllllllllllelis€kbS:w:w€ýc€ýb€ýc€ýbjjjjhbbbbcwlx:wjjjjjjjjjjjjjjjjjjjkkkkkkkkjjjjjjjjjjjjjjjjjjjjjj€ýc€ýb:w€ýc€ýbjkjkkkkkkkkkkkkkkk€ýc€ýbkkkkkkkjjjjjjjjo@app.route()i\"\"i/o€ýc€ýb@app.route()i\"\"i€ýc€ýb/<>ipublication€ýc€ýb€ýc€ýbj€ýc€ýbi=\"\"ibbc:wkkkkkkkkkkkVdd:w€ýc€ýb€ýc€ýbjkjjjjjjjkI#:wjjjjjjjjjjjjjjjjjjjjjjjjjjjj:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbkjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjj
+|<jjjjjjjjV:w€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb,tn€ü€kP€ü€kP€ü€kP,tc,tc,tc€ü€kNi<html>	<head>	<title>Headlines</titles>€ý,€ý.€kb</head><body></body>ko	<h1>Headlines</hq1€kb€kbw€kb1>ko<b>b€kb<b€kb/b></€kbbr />hhhhhhhhhititleo<i>published</i€kb/€kbi)€kb><br />p€kb<p>,€kbsuma€kbmary</p>jo€kb</htmlA>:w:wkkkkkkkkkkkkkkkkVJjuVjjjjjjjjjjjjjjj\"+y,tn:e tem	h	\"+pkdd:w€ü€kP,tc€ýc€ýb€ü€kP€ku€kuggjjofo€kbrom flask import rende
+|<r-€kb_template:w€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjkjddukjVjjjjjjjjjjjkkkxko€ýc€ýbreturn €ýc€ýb€ýc€ýbrender-€ü€kb_template()i\"\"ihome.html:w€ýc€ýb:w€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ü€kN€ü€kP€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€kd€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ü€kN€ku€ku€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€ýc€ýb€ýc€ýb€ku€ku€kueeeeex:w€ýc€ýb€ü€kPjjjjjjjjjjjkkklli€kb€kb€kb€kb,ui,\"
+|<+pj>>>>>>,j>>>>>>>:wjjjjjjjjjjjjj€ü€kN€ü€kP:w€ýc€ýb€ýc€ýb€ü€kNjjjjkhhhhhhhhhhhhhhji{{eli}}€ýc€ýbjli}}hhhhhhhbi{{hhlji{{eli}}:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€kueeeeeelhlvjjeeeeeeeehxi€kb €ýc€ýbarticle=first_article:w€ýc€ýb€ü€kNkkkkkljjlllllllllllliarticle.khhhhhhhiarticle.jhhbjiarticle.:w€ýc€ýb€ýc€ýb€ü€kP€ku€ýc€ýb€ýc€ýbhjllll€ýc€ýbjjkkkddlllllllllllllllllllllllllllllllllllllllulllllllllllllllhhhhhhhhhvllllllllllllllllllllllllyveeeeeehyjllllllllllllllll
+|<lllllllllllllllhvllllllllllllllllllllp€ýSyankstack_substitute_older_pastekdd€ýc€ýbeeeeeeeelislxlx:e€kbw€ýc€ýb:w€ýc€ýb€ü€kN€ku€ku€ku€ýc€ýb€ku€kdo<€kb{}i%%i€ýc€ýbfor article €ýc€ýbin articles hhhhhhhhhhhhhhhhhhhhhhhi eeee€ýc€ýbjjjjko<€kb{}i%%i endfor :w€ýc€ýb:w€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kuV€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb€ü
+|<€kN€ku€ku€kuhhhhhhhlLkkkkkkkjjeellvllllllllllllllllp€ýSyankstack_substitute_older_pastepuuvleeellp€ýSyankstack_substitute_older_pastei€ýc€ýbl\"+phhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhx:w:w€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€kugg€kd€kd€kdofrom flask import request:w€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kdV€kd€kd€kd€kd€kd€kd€kd€kuxddljdd:w€ýc€ýb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€krveeeebx:w€ý
+|<c€ýboquery = €ýc€ýbrequest.€ýc€ýb€ýc€ýbargs.€ýc€ýbget()i\"\"€ýc€ýbipublication:w€ýc€ýb:w€ýc€ýb€ýc€ýboif €ýc€ýbnot query €ýc€ýbor query.lower€ýc€ýb(0 n€kb€kb€kb) not€ýc€ýb in RSS_FEEDS€ýc€ýbA:€ýc€ýbpublication€ýc€ýb -€kb= \"\"ibbc:wjjjjjjjj:wjjjjj€ýc€ýbkkkkko€kbelse€ýc€ýb:€ýc€ýb€ýc€ýbpublication€ýc€ýb = query€ýc€ýb.lower€ýc€ýb()€ýc€ýbjjjj€ýc€ýb€ýc€ýb€ü€kNkkkko\"+pjkVjjj>jVj>:w€ýc€ýb€kl€kuV€kd€kd€kdx€kd€kdpu€kupV€kd€kd€kd>	:w€ýc€ýb€ü€kP€ýc€ýbkkkko:w€ýc€ýb€ýc€ýb
+|<€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjj:w€ýc€ýb€ýc€ýb€ýc€ýbkkkkkkkkkkkkljjllkkljllklkkopublication = \"\":w€ýc€ýb€ýc€ýb€ýc€ýbk€ýc€ýblcwformkki €ýc€ýbmethoss€kb€kbds=€ýc€ýb[]i€ýc€ýb''iGETlli€ýc€ýb, ''iPOST€ýc€ýb:w€ýc€ýb€ýc€ýbhbbbbbbbfleli,:w€ýc€ýb€ü€kN€ku€kd€kr€kr€kr€kr€kri €ýc€ýbaction=\"\"i/lli €ýc€ýbmethod=\"\"i€ýc€ýbPOST:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kuodef get_weather(query):api_url
+|< = http://apil€kb.openseather€kb€kb€kb€kb€kb€kb€kbweathermap.org/data/2.5/weather?q={}&€kb&units=metric&appid=€ýc€ýblh\"+p:w€ýc€ýbowe€kb€kbqe€kbuery = urllib.quote()iqueryourl = api_url.format()iqueryodata = urllib2.urlopen(url).read()parsed = json.loads(data)weather €kb = None€ý,€ý.koif parsed.get()i\"\"iweatherA;::A:weather = {}€kl\"\"idescriptionlli:parser€kbd[]i\"\"iweatherei[]i0ei[]i\"\"idescriptionAi,\"\"itemperaturalli:parsed[]i\"\"imainlei[]
+|<i\"\"itempei,\"\"icityei:parsed[]i\"\"inamelllioreturn weather:wkkkkkkkkkkk€ýc€ýbk:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbhhhhhhhi\"$A\":wjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkjkxuuukggjjjjokkddkkVlllllllllllllllllllhhjVxkkpjjo€ýc€ýbimport €ýc€ýbjsonimport €ýc€ýburllib2import urllib:wjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:wkkkkkklllllllllllllli\"A\":w€
+|<ýc€ýbkkjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkjkk0oweather = get_e€kbweather()i\"\"iLO€kbondon, UKjeeeeeeei,weather=eath€kb€kb€kb€kbweather:w:w€ýc€ýb€ü€kNjjjjko<h2><€kbCurrent weather</h2)€kb>o<p>CI€kbity: <b>{{}€kb€kb}i{}iweather.cityllllhhhlA</b></p>o<p>{}i{}iweather.descriptionlllhA | {}i{}iweather.temperaturalllhA&#8451;</p>o<h2>Headlines</h2):xA>:wjjjjjjjjjjjjj€ýc€ýb:w€ü€kP:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€
+|<ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kujjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkjjjjjjjjjjjkjkkjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+|<jjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ýb€ü€kN€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kdo<form><€kb€kb</form>ko€ýc€ýb<input €ýc€ýbtype=€ýc€ýb\"\"i€ýc€ýbtextA €ýc€ýbname=\"city\" €ýc€ýbplacehouder€ýc€ýb€kb€kb€kb€kblder=\"\"A\"\"i€ýc€ýbweather€ýc€ýb search:wA/>:w€ýc€ýbokAhxkjji			<inpu
+|<t tupe€kb€kb€kbu€kbype=\"\"i€ýc€ýbsubmitA €ýc€ýbvalue=\"\"i€ýc€ýbSubmitA>:w€ýc€ýb€ü€kP€kd€ku€ku€ku€kuo€ýc€ýbDEFAULTS€ýc€ýb = {}i€ýc€ýb''i€ýc€ýbpublication€ýc€ýbei:€ýc€ýb''ibbcei,	€kb€ýc€ýb''icityei,€ýc€ýb''iLo€ýc€ýbdon,€ýc€ýb€kb€kb€kb€kbndon,UK€ýc€ýb:wjjjk:wkkkjllllllllllllllr::wkjk%$A€kD€kD€kD€kD€kD€kD€kD€kD€kD :w€ýc€ýbjjjokkk€ýc€ýb€ýc€ýbllkk€ýc€ýbidef home():€ýc€ýb€ýc€ýb:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb\"+pVjjjjjjjjjjj>jjjjjjkkhhhkkkkkjjjjjjjjjjjjjddkkkkkk
+|<kkkkkkkkjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkjjjjj€ýc€ýbkkk>>jjk€ýc€ýbjjjj>>jjkokkkkkkkkkojjjkojjjkkojjjjjjjjjjjkkkkkkkkkkkkkkkjjddjjjjjjj:wjjjjjjjjjjjjjkkkkkkkkci(l%iquery:w€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€ku€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ýc€ýb
+|<€ýc€ýb€kd€kd€kd€kd€kudddddd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kriDEFAULTS[A]:wjklkleeceeci\"publication:wjjj €ýc€ýb€ýc€ýb€ýc€ýb€kd€kd€kd€kd€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€klv$xi €ýc€ýbfeed[]i€ýc€ýb''ientries:wokkk€ýc€ýbkjjdd:w€ýc€ýbjjjjjjjjjkkkkkkllllllI#oquery = urllib.quote()iqueryddjllllllvllllllxiWEATHER_URLjjjjjjjjjjj€ýc€ýb€ýc€ýbkkkkkkjkhiA€kDlvlllllllebhx
+|<:w:wjj€ýc€ýb€ku€ku€ku€ku€ku€ýc€ýb€ýc€ýb€ku€ku€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€ýc€ýb€kd€kd€kd€kd€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€
+|<kl€kl€kl€kl€kl€kl€kl€ku€ku€klx€kd€kd€kr€kr€kr€kr€kr€kr€ku€ku€kl€kl€kl€kl€kl€kl€kr€klVv€kr€kr€kr€kr€kr€krVxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkop<<vvwhbveIvExiWEATHER_URLjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk:wjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkk:wkkkkkkkkkkkkkkkkkkkkkkkkkk€ü€kN€ü€kP€ü€kN€ü€kP€kd€kd€kd€kd€kd€kd€ýc€ýb€ü€kN€ü€kP€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€k
+|<d€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd:w€ýc€ýb€ü€kN€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kuV€kd€kd€kdx€kd€kd€kd€kd€kd€kd€kd€kd€kup:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kN€kd€kd€kd€kd€kd€kd€kd€kd€kdlllkkkko€ýc€ýb''i€ýc€ýbcountry€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€
+|<ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€kuA€kb€ýc€ýbA: €ýc€ýbparsed€ýc€ýb[]i€ýc€ýb''isysA€ýc€ýb[]i''i€ýc€ýbcountry:whhhhhhhhhhhhhhhhhhhhhhx:wkA,:w€ýc€ýb€ü€kNjjjjjjjkkkkkkkkkkV\"+p€ýSyankstack_substitute_older_paste>>>>:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€k
+|<u€ku€ku€ku€ku€ku€ku€ku€ku€kd€ü€kN€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ü€kP€ü€kN€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ü€kN€ü€kN€ýc€ýb€kd€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kl€ku€kr€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd
+|<€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ü€kPkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjj
+|<jjpuj€ýc€ýb\"+peeli€kblhhki ljli $A€kD:w€ýc€ýblllllllllvlllllllllllllllllp€ýSyankstack_substitute_older_pasteuvhveeeeeeeeh\"+p€ýSyankstack_substitute_older_paste:wo:w€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjko\"+pijVjjjj>	€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€ku$i, €ýc€ýbcurrency€ýc€ýb_from€ýc€ýb
+|<'bi'elli,€kb:''i€ýc€ýbGBP:w€kr€kri, €ýc€ýb''i€ýc€ýbcurrent€ýc€ýb€kbcy_€ýc€ýbtolli:''i€ýc€ýbUSD:wjkkjjkkkjjkkjjjkjjjjkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkojjjjjjjjjjjjjjokkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ý
+|<b€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjkkkkkkkkk€ýc€ýbj\"+pVjjjjjjj>jjjjjjjjkokkkkkkkkko:wjjjj>>j€ýc€ýbj:wj>>	:wkj€ýc€ýb€ýc€ýb:wjjjj:wkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjkk€ýc€ýbjkkkkkeeeli, \"p\"+phhl$A€kD:wkj>>>>>>kA€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD€kD lllllllllllllllllli:w€ýc€ýb€ýc€ýb€ýc€ýb€ü€kNjjjjjjjjjjjjk€ýc€ýb€ýc€ýbkkkkk\"+pu\"+puo\"+pJxxxikVj>>>,jj>>kkkkkjjjjijjikkkkkkki:w€ýc€ýb€ýc€ýbjjjjjli'€kb1 :w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ý
+|<c€ýb€ýc€ýbjkko\"+pVjjjjjjjjjjjjjj>VJuVjjjjjjjjjjjjjj>jJuVjjjjjjjjjjjj>jVjjjjkkkkkVjjjjjjjjjjjj==:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ü€kP€ku€ku€ku€ku€ku€ku€ku€kd€kd€ku€kl€kl€kl€kl€kl€kl€klirate, lllllllllllllllveeeeexiger_€kb€kbt_ratellicurrent€kbcy_fromli, llhxllllllllllllhx:wjkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxi€kbies:wjjjjkkkkVjjjjjjwVkkkkkkkkkkjjjjjxkuuuuuuuuuuuuu€ýc€ýbuu€ýc€ýb€ýc€ýblllllllllllllvlllxie€kbiesllllveeeee€ýc€ýbkkkkjjj€ýc€ýb€ýc€ýb€ýc€ý
+|<b€ýc€ýb€ýc€ýbuuuuuuukkkkkuukkkkkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhvlxifrom:wjkhhhuuu:wjj€ýc€ýbhhhj€ýc€ýbjj€ýc€ýbj$i, €ýc€ýbcurrencies€ýc€ýb=sorted€ýc€ýb()i€ýc€ýbcurrencies:w€ýc€ýbjjjjjkkkkkkkkkkkjjjbbbbbbi€kb, currencies:li :w€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkk€ýc€ýb€ýc€ýbhhhhhhhhhji(A)i,€ýc€ýb€ýc€ýb par€ýc€ýbsed€ýc€ýb.keys():w:wjjjjj€ýc€ýb:w€ýc€ýb€ü€kN€ýc€ýbhhhhjkkVjjjjjjjjjjjjjjxko€ýc€ýb€ýc€ýb\"+pVjjjjjjjjjjjjjj>Vj]][kkkkkkkkkkkkkk>Vjjjjjjjjjjj
+|<jjj=:w€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkk€ü€kPkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk€ýc€ýb€ü€kN€ýc€ýbjj€ýc€ýbllllllllllllllli :w€ýc€ýb€ýc€ýbjjjjj€ýc€ýb€ýc€ýb€ýc€ýbjjk€ýc€ýbllllllllllllllllllllli€ýc€ýblili\"+pj>>>>>>>>>>uVx€ýc€ýbjkllllllllllllllhhikkVj>:w€ýc€ýb€ýc€ýbkkkkkkkkjlllllllllllllllllllllllli\"+phhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhjikkVj>llllllllllllllllllllllllllllllll
+|<lllllhxxifromjjjjjjjjhhhxxxxito:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb:w€ü€kP€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+|<jjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjkkkjkkkhhhhhhhhhhhhhhhhhhhhijjj$i>>kkkkVjjj>Vjjj>:wjjjjjjjjjjkhhhhi>>lllllllllllllllllllllilllllllllllllllllllllillllllllllllllllllllllllilllllllllllllllllllli:wkkkkkkkkkkkkkkJJuuVjjj<:wjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjÃ§kkkkkjjjjjjjjjjjjjjjjjjjj€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbggjjkkoimpo
+|<rt datetime€ýc€ýbjjjjkkkko€ýc€ýbfo€kbrom €ýc€ýb€kb€kb€kb€kb€kb€kbjjjjkk€ýc€ýbjjofrom flask p€kbimport €ýc€ýbmake_response:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbjjjjjjjjjjjjjjjjjjjjjjjjj/homejjjjjjjjjjjjjjjjjjjjjjjjkLLLLlhvllllllxiresponse = make_response($jA):w€ýc€ýb€ýc€ýb€ýc€ýb€ý,€ý.jjjkkjjoujoex€kb€kb€kb€kb	expires = datetime.datetime.now() +€ü datetime.timedelta()idays=365oresponse.set_cookie()i\"\"ipublicationlli, publication, expires=expiresoresponse.set(€kb_cookie()i\"\"i€kb
+|<icityei, city, expires=expires:woresponse.set-€kb_cookie()i\"\"icurrency_fromei, currency_from, expires=expiresoresponse.set_cookie()i\"\"icurrency_toe,i, currency_to, expires=expires:woreturn response:w€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kuo	if not publication:publication = request.cookies.get()i\"\"ipublication:wjVjj>	jjj€ýc€ýb€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd
+|<€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku\"+pijVjjj>j>>jj>>:wkkkkkkkkkkkkjjjjjjjjjjjjjjj€ýc€ýbkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjhhhh€ýc€ýb€ýc€ýbjkvhjjj$%$xvlllllllxkk:wjklllllllllllllllhvlllllllllllllllxiget_value_with_fallback:wllr\"elr\":wjjkddjj€ý,€ý.kkkkkkVjjxkocity = get_value_\n€ü€kb€ü €kb€ü €kb()i\"\"icityjjj€ý,€ý.kkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjkkkkkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhveeeeexgetllligetj€kb€kb€kbjVjxlllllllllllllebveeeeex
+|<iget€kb€kb:wjkjVjx:w,tw,tw,twjjjjj€ýc€ýb€ýc€ýb€ü€kN€kugg€kd€kd€kd€kd€kd€kd€ku€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kl€kuo<de€kbiv id=\"\"iheaderA>jjjjkkko</div>k>>:wo,tw,twi			<p>€ýc€ýb€ýc€ýb</p>ddko<p?€ü€kb><?€ü€kb/p>bci>uhhliHeadlines,€kb. Currency. Weather.o<b€kbhr />:wkkkkkoukouo<styp€kble></sytl€kby€kb€kb€kbtyle>bbliki		html {}ci}jkklhAf€kb	font-family:€ü \"\";ci\"hiHelveticao€kbbackground: wht€kbite;:
+|<wjoo€kbbody {}iklhA	a€kbbackground: lightgrey;€kbmax-width: 900px;€kbmargin: 0 auto;jjko#header {}ikkouuikobackground: lightstellblue;hhhhhhre:w,twjkkkkkkkkki,tw,,tw\n:w:,tc,tn:q:q,tc:q!:1€kb€kb2:q:q€ýc€ýb"
+""-	CHAR	0
+	(
+|3,1,36,0,1,0,1504645264,"("
+
+# Marcas nos arquivos:
+'0  43  34  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,48,43,34,1504715748,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+'1  10  38  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,49,10,38,1504445435,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+'2  3  0  /var/www/crimemap/crimemap.py
+|4,50,3,0,1504296099,"/var/www/crimemap/crimemap.py"
+'3  3  0  /var/www/crimemap/crimemap.py
+|4,51,3,0,1504296060,"/var/www/crimemap/crimemap.py"
+'4  5  8  /etc/httpd/conf.d/waitercaller.conf
+|4,52,5,8,1504275465,"/etc/httpd/conf.d/waitercaller.conf"
+'5  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,53,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+'6  20  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,54,20,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+'7  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,55,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+'8  36  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,56,36,12,1504026772,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+'9  36  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,57,36,12,1504026772,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+
+# Lista de saltos (mais recente primeiro):
+-'  43  34  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,43,34,1504715748,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  44  139  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,44,139,1504645360,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  52  25  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,52,25,1504635691,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  2  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,2,0,1504635411,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  39  16  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,39,16,1504635291,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  13  29  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,13,29,1504635290,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  36  16  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,36,16,1504635105,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  35  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,35,0,1504632923,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  4  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+|4,39,4,0,1504632210,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html
+|4,39,1,0,1504632207,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html"
+-'  33  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html
+|4,39,33,0,1504619901,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html"
+-'  32  17  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html
+|4,39,32,17,1504619894,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html"
+-'  21  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html
+|4,39,21,0,1504619890,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html"
+-'  13  54  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/passwordhelper.py
+|4,39,13,54,1504619848,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/passwordhelper.py"
+-'  14  53  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/passwordhelper.py
+|4,39,14,53,1504549803,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/passwordhelper.py"
+-'  5  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,5,0,1504549697,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  6  13  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,6,13,1504548523,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,1,0,1504545567,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  10  38  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,10,38,1504445435,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  113  32  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,113,32,1504298431,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  81  26  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,81,26,1504298312,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  116  4  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,116,4,1504296889,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  26  17  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+|4,39,26,17,1504296887,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py"
+-'  3  0  /var/www/crimemap/crimemap.py
+|4,39,3,0,1504296099,"/var/www/crimemap/crimemap.py"
+-'  3  0  /var/www/crimemap/crimemap.py
+|4,39,3,0,1504296060,"/var/www/crimemap/crimemap.py"
+-'  1  0  /var/www/crimemap/crimemap.py
+|4,39,1,0,1504296046,"/var/www/crimemap/crimemap.py"
+-'  1  0  /var/www/crimemap/crimemap.py
+|4,39,1,0,1504296046,"/var/www/crimemap/crimemap.py"
+-'  5  8  /etc/httpd/conf.d/waitercaller.conf
+|4,39,5,8,1504275465,"/etc/httpd/conf.d/waitercaller.conf"
+-'  5  8  /etc/httpd/conf.d/waitercaller.conf
+|4,39,5,8,1504275465,"/etc/httpd/conf.d/waitercaller.conf"
+-'  5  8  /etc/httpd/conf.d/waitercaller.conf
+|4,39,5,8,1504275465,"/etc/httpd/conf.d/waitercaller.conf"
+-'  5  8  /etc/httpd/conf.d/waitercaller.conf
+|4,39,5,8,1504275465,"/etc/httpd/conf.d/waitercaller.conf"
+-'  1  0  /etc/httpd/conf.d/waitercaller.conf
+|4,39,1,0,1504275374,"/etc/httpd/conf.d/waitercaller.conf"
+-'  1  0  /etc/httpd/conf.d/waitercaller.conf
+|4,39,1,0,1504275374,"/etc/httpd/conf.d/waitercaller.conf"
+-'  1  0  /etc/httpd/conf.d/waitercaller.conf
+|4,39,1,0,1504275374,"/etc/httpd/conf.d/waitercaller.conf"
+-'  1  0  /etc/httpd/conf.d/waitercaller.conf
+|4,39,1,0,1504275374,"/etc/httpd/conf.d/waitercaller.conf"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  3  42  /var/www/waitercaller/waitercaller.wsgi
+|4,39,3,42,1504275343,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  1  0  /var/www/waitercaller/waitercaller.wsgi
+|4,39,1,0,1504275323,"/var/www/waitercaller/waitercaller.wsgi"
+-'  32  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css
+|4,39,32,0,1504275104,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css
+|4,39,1,0,1504140400,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css"
+-'  12  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css
+|4,39,12,0,1504058379,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css"
+-'  26  1  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css
+|4,39,26,1,1504058372,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/static/css/style.css"
+-'  71  8  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,71,8,1504058345,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  84  9  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,84,9,1504038746,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  32  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,32,19,1504037332,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  20  16  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,20,16,1504037186,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,0,1504035819,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/dbhelper.py
+|4,39,16,12,1504035815,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/dbhelper.py"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/dbhelper.py
+|4,39,1,0,1504035814,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/dbhelper.py"
+-'  1  0  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/crimemap.py
+|4,39,1,0,1504035809,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/crimemap.py"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  16  19  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,16,19,1504031765,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+-'  1  12  ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html
+|4,39,1,12,1504029862,"~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/crimemap/templates/home.html"
+
+# HistÃ³rico de marcas nos arquivos (mais recente primeiro):
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/waitercaller.py
+	*	1504644923	0
+	"	36	25
+	^	49	0
+	.	52	0
+	+	1	0
+	+	24	0
+	+	28	0
+	+	31	0
+	+	114	0
+	+	116	0
+	+	8	41
+	+	116	0
+	+	27	32
+	+	31	36
+	+	32	0
+	+	33	19
+	+	37	28
+	+	33	5
+	+	9	37
+	+	16	48
+	+	17	20
+	+	6	0
+	+	2	32
+	+	21	14
+	+	26	17
+	+	4	24
+	+	79	33
+	+	81	34
+	+	82	40
+	+	83	36
+	+	85	24
+	+	86	22
+	+	87	39
+	+	88	16
+	+	82	10
+	+	5	24
+	+	105	23
+	+	106	38
+	+	108	26
+	+	86	37
+	+	110	18
+	+	111	12
+	+	113	32
+	+	10	38
+	+	6	0
+	+	18	40
+	+	22	20
+	+	83	14
+	+	84	96
+	+	90	37
+	+	92	34
+	+	93	35
+	+	94	36
+	+	96	36
+	+	97	26
+	+	98	36
+	+	99	23
+	+	100	34
+	+	101	34
+	+	102	32
+	+	95	4
+	+	83	0
+	+	84	43
+	+	79	0
+	+	37	41
+	+	38	0
+	+	78	0
+	+	39	21
+	+	47	41
+	+	37	0
+	+	47	39
+	+	55	0
+	+	56	0
+	+	59	0
+	+	60	0
+	+	11	0
+	+	13	0
+	+	36	47
+	+	37	55
+	+	70	0
+	+	71	0
+	+	75	0
+	+	83	0
+	+	95	0
+	+	74	4
+	+	23	17
+	+	12	0
+	+	19	34
+	+	61	4
+	+	62	69
+	+	65	0
+	+	66	0
+	+	67	0
+	+	70	0
+	+	14	14
+	+	43	51
+	+	45	50
+	+	46	93
+	+	42	8
+	+	46	45
+	+	47	61
+	+	55	0
+	+	49	0
+	+	52	0
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/home.html
+	*	1504642259	0
+	"	82	16
+	.	1	0
+	+	1	0
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/mockdbhelper.py
+	*	1504712345	0
+	"	43	34
+	^	43	8
+	.	43	8
+	+	1	0
+	+	18	0
+	+	1	0
+	+	11	0
+	+	18	8
+	+	19	0
+	+	20	0
+	+	18	0
+	+	11	0
+	+	5	66
+	+	18	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	15	0
+	+	16	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	22	39
+	+	23	74
+	+	24	20
+	+	26	37
+	+	28	39
+	+	29	34
+	+	30	20
+	+	32	35
+	+	33	25
+	+	35	33
+	+	35	73
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	31	0
+	+	26	13
+	+	39	0
+	+	10	98
+	+	1	15
+	+	23	45
+	+	47	0
+	+	48	0
+	+	49	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	51	47
+	+	52	48
+	+	54	0
+	+	51	24
+	+	52	22
+	+	40	0
+	+	41	0
+	+	42	30
+	+	44	67
+	+	45	0
+	+	44	0
+	+	43	8
+	z	54	20
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/base.html
+	*	1504632202	0
+	"	1	0
+	^	33	0
+	.	3	0
+	+	1	0
+	+	21	0
+	+	33	0
+	+	3	0
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/dashboard.html
+	*	1504642256	0
+	"	39	0
+	^	12	0
+	.	12	0
+	+	1	0
+	+	4	0
+	+	36	0
+	+	12	0
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/templates/account.html
+	*	1504632863	0
+	"	24	0
+	^	21	0
+	.	13	0
+	+	1	0
+	+	4	0
+	+	32	0
+	+	35	0
+	+	32	0
+	+	13	0
+	+	21	0
+	+	13	0
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/config.py
+	*	1504642260	0
+	"	2	33
+	^	2	34
+	.	2	33
+	+	1	0
+	+	2	33
+
+> ~/rafaelb.barbosa@gmail.com/Workspace/Freelancers/waitercaller/ControlP
+	*	1504635126	0
+	"	11	0
+	.	2	0
+	+	1	0
+	+	2	0
